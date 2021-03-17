@@ -1,0 +1,13 @@
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\bin\Debug\netcoreapp3.1\Directions.exe
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\bin\Debug\netcoreapp3.1\Directions.deps.json
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\bin\Debug\netcoreapp3.1\Directions.runtimeconfig.json
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\bin\Debug\netcoreapp3.1\Directions.runtimeconfig.dev.json
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\bin\Debug\netcoreapp3.1\Directions.dll
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\bin\Debug\netcoreapp3.1\Directions.pdb
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\obj\Debug\netcoreapp3.1\Directions.csprojAssemblyReference.cache
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\obj\Debug\netcoreapp3.1\Directions.AssemblyInfoInputs.cache
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\obj\Debug\netcoreapp3.1\Directions.AssemblyInfo.cs
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\obj\Debug\netcoreapp3.1\Directions.csproj.CoreCompileInputs.cache
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\obj\Debug\netcoreapp3.1\Directions.dll
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\obj\Debug\netcoreapp3.1\Directions.pdb
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Directions\obj\Debug\netcoreapp3.1\Directions.genruntimeconfig.cache

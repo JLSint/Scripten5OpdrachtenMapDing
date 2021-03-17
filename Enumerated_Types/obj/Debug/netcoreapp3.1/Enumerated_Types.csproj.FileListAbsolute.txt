@@ -1,0 +1,13 @@
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\bin\Debug\netcoreapp3.1\Enumerated_Types.exe
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\bin\Debug\netcoreapp3.1\Enumerated_Types.deps.json
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\bin\Debug\netcoreapp3.1\Enumerated_Types.runtimeconfig.json
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\bin\Debug\netcoreapp3.1\Enumerated_Types.runtimeconfig.dev.json
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\bin\Debug\netcoreapp3.1\Enumerated_Types.dll
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\bin\Debug\netcoreapp3.1\Enumerated_Types.pdb
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\obj\Debug\netcoreapp3.1\Enumerated_Types.csprojAssemblyReference.cache
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\obj\Debug\netcoreapp3.1\Enumerated_Types.AssemblyInfoInputs.cache
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\obj\Debug\netcoreapp3.1\Enumerated_Types.AssemblyInfo.cs
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\obj\Debug\netcoreapp3.1\Enumerated_Types.csproj.CoreCompileInputs.cache
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\obj\Debug\netcoreapp3.1\Enumerated_Types.dll
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\obj\Debug\netcoreapp3.1\Enumerated_Types.pdb
+C:\Users\joepl\OneDrive\School-Stuff\Scripten\Scripten5OpdrachtenMapDing\Enumerated_Types\obj\Debug\netcoreapp3.1\Enumerated_Types.genruntimeconfig.cache
